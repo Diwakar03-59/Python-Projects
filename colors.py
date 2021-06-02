@@ -60,7 +60,7 @@ CELL_NUMBER_FONTS = {
     32: ("Verdana", 45, "bold"),
     64: ("Verdana", 45, "bold"),
     128: ("Verdana", 40, "bold"),
-    264: ("Verdana", 40, "bold"),
+    256: ("Verdana", 40, "bold"),
     512: ("Verdana", 40, "bold"),
     1024: ("Verdana", 35, "bold"),
     2048: ("Verdana", 35, "bold")
